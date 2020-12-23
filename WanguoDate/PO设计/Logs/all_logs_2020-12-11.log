@@ -1,0 +1,7 @@
+2020-12-11 11:57:24,572 - log_utils.py[line:15] - INFO: 打开浏览器地址：https://petest.gds-services.com/portal/#/portal/r_todo
+2020-12-11 11:57:26,687 - log_utils.py[line:15] - INFO: 浏览器最大化
+2020-12-11 11:57:26,688 - log_utils.py[line:15] - INFO: 添加隐式等待
+2020-12-11 11:57:26,767 - log_utils.py[line:15] - INFO: 用户名输入框输入：chaiguangfei
+2020-12-11 11:57:26,842 - log_utils.py[line:15] - INFO: 密码输入框输入：Gds1234567890
+2020-12-11 11:57:26,885 - log_utils.py[line:15] - INFO: 点击登录按钮
+2020-12-11 11:57:34,007 - log_utils.py[line:15] - INFO: 关闭浏览器

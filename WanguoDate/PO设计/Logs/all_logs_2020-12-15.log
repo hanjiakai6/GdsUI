@@ -1,0 +1,318 @@
+2020-12-15 11:33:26,957 - log_utils.py[line:15] - INFO: �û�����������룺chaiguangfei
+2020-12-15 11:33:27,035 - log_utils.py[line:15] - INFO: ������������룺Gds1234567890
+2020-12-15 11:33:27,074 - log_utils.py[line:15] - INFO: �����¼��ť
+2020-12-15 11:48:56,733 - log_utils.py[line:15] - INFO: �û�����������룺chaiguangfei
+2020-12-15 11:48:56,814 - log_utils.py[line:15] - INFO: ������������룺Gds1234567890
+2020-12-15 11:48:56,851 - log_utils.py[line:15] - INFO: �����¼��ť
+2020-12-15 14:29:23,830 - log_utils.py[line:15] - INFO: ������ʽ�ȴ�
+2020-12-15 14:29:41,827 - log_utils.py[line:15] - INFO: ������ʽ�ȴ�
+2020-12-15 14:32:14,145 - log_utils.py[line:15] - INFO: ������ʽ�ȴ�
+2020-12-15 14:32:14,336 - log_utils.py[line:15] - INFO: ���������ַ��https://petest.gds-services.com/portal/#/portal/r_todo
+2020-12-15 14:32:14,490 - log_utils.py[line:15] - INFO: �û�����������룺chaiguangfei
+2020-12-15 14:32:14,566 - log_utils.py[line:15] - INFO: ������������룺Gds1234567890
+2020-12-15 14:32:14,601 - log_utils.py[line:15] - INFO: �����¼��ť
+2020-12-15 14:32:16,703 - log_utils.py[line:15] - INFO: �ر������
+2020-12-15 14:33:41,980 - log_utils.py[line:15] - INFO: ������ʽ�ȴ�
+2020-12-15 14:33:42,179 - log_utils.py[line:15] - INFO: ���������ַ��https://petest.gds-services.com/portal/#/portal/r_todo
+2020-12-15 14:33:42,328 - log_utils.py[line:15] - INFO: �û�����������룺chaiguangfei
+2020-12-15 14:33:42,394 - log_utils.py[line:15] - INFO: ������������룺Gds1234567890
+2020-12-15 14:33:42,429 - log_utils.py[line:15] - INFO: �����¼��ť
+2020-12-15 14:33:44,529 - log_utils.py[line:15] - INFO: �ر������
+2020-12-15 15:17:51,087 - log_utils.py[line:15] - INFO: ��������
+2020-12-15 15:17:51,088 - log_utils.py[line:15] - INFO: ������ʽ�ȴ�
+2020-12-15 15:17:51,385 - log_utils.py[line:15] - INFO: ���������ַ��https://petest.gds-services.com/portal/#/portal/r_todo
+2020-12-15 15:17:51,534 - log_utils.py[line:15] - INFO: �û�����������룺chaiguangfei
+2020-12-15 15:17:51,601 - log_utils.py[line:15] - INFO: ������������룺Gds1234567890
+2020-12-15 15:17:51,635 - log_utils.py[line:15] - INFO: �����¼��ť
+2020-12-15 15:17:58,578 - log_utils.py[line:15] - INFO: �ر������
+2020-12-15 15:29:33,045 - log_utils.py[line:15] - INFO: ��������
+2020-12-15 15:29:33,047 - log_utils.py[line:15] - INFO: ������ʽ�ȴ�
+2020-12-15 15:29:33,491 - log_utils.py[line:15] - INFO: ���������ַ��https://petest.gds-services.com/portal/#/portal/r_todo
+2020-12-15 15:29:35,618 - log_utils.py[line:15] - INFO: �ر������
+2020-12-15 15:30:13,582 - log_utils.py[line:15] - INFO: ��������
+2020-12-15 15:30:13,584 - log_utils.py[line:15] - INFO: ������ʽ�ȴ�
+2020-12-15 15:30:13,852 - log_utils.py[line:15] - INFO: ���������ַ��https://petest.gds-services.com/portal/#/portal/r_todo
+2020-12-15 15:30:14,002 - log_utils.py[line:15] - INFO: �û�����������룺chaiguangfei
+2020-12-15 15:30:14,072 - log_utils.py[line:15] - INFO: ������������룺Gds1234567890
+2020-12-15 15:30:14,106 - log_utils.py[line:15] - INFO: �����¼��ť
+2020-12-15 15:30:17,584 - log_utils.py[line:15] - INFO: �ر������
+2020-12-15 15:30:57,396 - log_utils.py[line:15] - INFO: ��������
+2020-12-15 15:30:57,397 - log_utils.py[line:15] - INFO: ������ʽ�ȴ�
+2020-12-15 15:30:57,629 - log_utils.py[line:15] - INFO: ���������ַ��https://petest.gds-services.com/portal/#/portal/r_todo
+2020-12-15 15:30:57,793 - log_utils.py[line:15] - INFO: �û�����������룺chaiguangfei
+2020-12-15 15:30:57,866 - log_utils.py[line:15] - INFO: ������������룺Gds1234567890
+2020-12-15 15:30:57,901 - log_utils.py[line:15] - INFO: �����¼��ť
+2020-12-15 15:31:01,973 - log_utils.py[line:15] - INFO: �ر������
+2020-12-15 15:33:00,602 - log_utils.py[line:15] - INFO: 浏览器最大化
+2020-12-15 15:33:00,604 - log_utils.py[line:15] - INFO: 添加隐式等待
+2020-12-15 15:33:00,884 - log_utils.py[line:15] - INFO: 打开浏览器地址：https://petest.gds-services.com/portal/#/portal/r_todo
+2020-12-15 15:33:01,036 - log_utils.py[line:15] - INFO: 用户名输入框输入：chaiguangfei
+2020-12-15 15:33:01,103 - log_utils.py[line:15] - INFO: 密码输入框输入：Gds1234567890
+2020-12-15 15:33:01,138 - log_utils.py[line:15] - INFO: 点击登录按钮
+2020-12-15 15:33:04,596 - log_utils.py[line:15] - INFO: 关闭浏览器
+2020-12-15 15:39:25,834 - log_utils.py[line:15] - INFO: 浏览器最大化
+2020-12-15 15:39:25,835 - log_utils.py[line:15] - INFO: 添加隐式等待
+2020-12-15 15:39:26,127 - log_utils.py[line:15] - INFO: 打开浏览器地址：https://petest.gds-services.com/portal/#/portal/r_todo
+2020-12-15 15:39:26,292 - log_utils.py[line:15] - INFO: 用户名输入框输入：chaiguangfei
+2020-12-15 15:39:26,362 - log_utils.py[line:15] - INFO: 密码输入框输入：Gds1234567890
+2020-12-15 15:39:26,396 - log_utils.py[line:15] - INFO: 点击登录按钮
+2020-12-15 15:39:29,935 - log_utils.py[line:15] - INFO: 关闭浏览器
+2020-12-15 15:40:47,696 - log_utils.py[line:15] - INFO: 浏览器最大化
+2020-12-15 15:40:47,697 - log_utils.py[line:15] - INFO: 添加隐式等待
+2020-12-15 15:40:47,935 - log_utils.py[line:15] - INFO: 打开浏览器地址：https://petest.gds-services.com/portal/#/portal/r_todo
+2020-12-15 15:40:48,087 - log_utils.py[line:15] - INFO: 用户名输入框输入：chaiguangfei
+2020-12-15 15:40:48,157 - log_utils.py[line:15] - INFO: 密码输入框输入：Gds1234567890
+2020-12-15 15:40:48,195 - log_utils.py[line:15] - INFO: 点击登录按钮
+2020-12-15 15:40:49,429 - log_utils.py[line:15] - INFO: 用户校验成功
+2020-12-15 15:40:51,934 - log_utils.py[line:15] - INFO: 关闭浏览器
+2020-12-15 17:06:30,397 - log_utils.py[line:15] - INFO: 浏览器最大化
+2020-12-15 17:06:30,399 - log_utils.py[line:15] - INFO: 添加隐式等待
+2020-12-15 17:06:30,946 - log_utils.py[line:15] - INFO: 打开浏览器地址：https://petest.gds-services.com/portal/#/portal/r_todo
+2020-12-15 17:06:31,144 - log_utils.py[line:15] - INFO: 用户名输入框输入：chaiguangfei
+2020-12-15 17:06:31,207 - log_utils.py[line:15] - INFO: 密码输入框输入：Gds1234567890
+2020-12-15 17:06:31,241 - log_utils.py[line:15] - INFO: 点击登录按钮
+2020-12-15 17:06:36,059 - log_utils.py[line:15] - INFO: 用户登录校验成功
+2020-12-15 17:06:43,792 - log_utils.py[line:15] - INFO: 关闭浏览器
+2020-12-15 17:09:29,623 - log_utils.py[line:15] - INFO: 浏览器最大化
+2020-12-15 17:09:29,625 - log_utils.py[line:15] - INFO: 添加隐式等待
+2020-12-15 17:09:29,839 - log_utils.py[line:15] - INFO: 打开浏览器地址：https://petest.gds-services.com/portal/#/portal/r_todo
+2020-12-15 17:09:29,982 - log_utils.py[line:15] - INFO: 用户名输入框输入：chaiguangfei
+2020-12-15 17:09:30,054 - log_utils.py[line:15] - INFO: 密码输入框输入：Gds1234567890
+2020-12-15 17:09:30,089 - log_utils.py[line:15] - INFO: 点击登录按钮
+2020-12-15 17:09:34,079 - log_utils.py[line:15] - INFO: 用户登录校验成功
+2020-12-15 17:09:44,763 - log_utils.py[line:15] - INFO: 等待10秒
+2020-12-15 17:09:51,994 - log_utils.py[line:15] - INFO: 关闭浏览器
+2020-12-15 17:16:32,434 - log_utils.py[line:15] - INFO: 浏览器最大化
+2020-12-15 17:16:32,436 - log_utils.py[line:15] - INFO: 添加隐式等待
+2020-12-15 17:16:32,759 - log_utils.py[line:15] - INFO: 打开浏览器地址：https://petest.gds-services.com/portal/#/portal/r_todo
+2020-12-15 17:16:32,907 - log_utils.py[line:15] - INFO: 用户名输入框输入：chaiguangfei
+2020-12-15 17:16:32,973 - log_utils.py[line:15] - INFO: 密码输入框输入：Gds1234567890
+2020-12-15 17:16:33,008 - log_utils.py[line:15] - INFO: 点击登录按钮
+2020-12-15 17:16:37,995 - log_utils.py[line:15] - INFO: 用户登录校验成功
+2020-12-15 17:16:48,362 - log_utils.py[line:15] - INFO: 等待10秒
+2020-12-15 17:16:50,508 - log_utils.py[line:15] - INFO: 关闭浏览器
+2020-12-15 17:19:04,502 - log_utils.py[line:15] - INFO: 浏览器最大化
+2020-12-15 17:19:04,503 - log_utils.py[line:15] - INFO: 添加隐式等待
+2020-12-15 17:19:05,330 - log_utils.py[line:15] - INFO: 打开浏览器地址：https://petest.gds-services.com/portal/#/portal/r_todo
+2020-12-15 17:19:05,490 - log_utils.py[line:15] - INFO: 用户名输入框输入：chaiguangfei
+2020-12-15 17:19:05,554 - log_utils.py[line:15] - INFO: 密码输入框输入：Gds1234567890
+2020-12-15 17:19:05,586 - log_utils.py[line:15] - INFO: 点击登录按钮
+2020-12-15 17:19:08,222 - log_utils.py[line:15] - INFO: 用户登录校验成功
+2020-12-15 17:19:18,344 - log_utils.py[line:15] - INFO: 等待10秒
+2020-12-15 17:19:20,482 - log_utils.py[line:15] - INFO: 关闭浏览器
+2020-12-15 17:21:41,068 - log_utils.py[line:15] - INFO: 浏览器最大化
+2020-12-15 17:21:41,069 - log_utils.py[line:15] - INFO: 添加隐式等待
+2020-12-15 17:21:41,348 - log_utils.py[line:15] - INFO: 打开浏览器地址：https://petest.gds-services.com/portal/#/portal/r_todo
+2020-12-15 17:21:41,503 - log_utils.py[line:15] - INFO: 用户名输入框输入：chaiguangfei
+2020-12-15 17:21:41,571 - log_utils.py[line:15] - INFO: 密码输入框输入：Gds1234567890
+2020-12-15 17:21:41,604 - log_utils.py[line:15] - INFO: 点击登录按钮
+2020-12-15 17:21:42,936 - log_utils.py[line:15] - INFO: 用户登录校验成功
+2020-12-15 17:21:46,234 - log_utils.py[line:15] - INFO: 点击进入系统入口
+2020-12-15 17:21:56,235 - log_utils.py[line:15] - INFO: 等待10秒
+2020-12-15 17:21:58,338 - log_utils.py[line:15] - INFO: 关闭浏览器
+2020-12-15 17:29:28,696 - log_utils.py[line:15] - INFO: 浏览器最大化
+2020-12-15 17:29:28,697 - log_utils.py[line:15] - INFO: 添加隐式等待
+2020-12-15 17:29:29,181 - log_utils.py[line:15] - INFO: 打开浏览器地址：https://petest.gds-services.com/portal/#/portal/r_todo
+2020-12-15 17:29:29,357 - log_utils.py[line:15] - INFO: 用户名输入框输入：chaiguangfei
+2020-12-15 17:29:29,422 - log_utils.py[line:15] - INFO: 密码输入框输入：Gds1234567890
+2020-12-15 17:29:29,456 - log_utils.py[line:15] - INFO: 点击登录按钮
+2020-12-15 17:29:34,859 - log_utils.py[line:15] - INFO: 用户登录校验成功
+2020-12-15 17:29:35,214 - log_utils.py[line:15] - INFO: 点击进入系统入口
+2020-12-15 17:29:40,214 - log_utils.py[line:15] - INFO: 等待5秒
+2020-12-15 17:29:42,373 - log_utils.py[line:15] - INFO: 关闭浏览器
+2020-12-15 17:35:44,886 - log_utils.py[line:15] - INFO: 浏览器最大化
+2020-12-15 17:35:44,886 - log_utils.py[line:15] - INFO: 添加隐式等待
+2020-12-15 17:35:45,455 - log_utils.py[line:15] - INFO: 打开浏览器地址：https://petest.gds-services.com/portal/#/portal/r_todo
+2020-12-15 17:35:45,610 - log_utils.py[line:15] - INFO: 用户名输入框输入：chaiguangfei
+2020-12-15 17:35:45,674 - log_utils.py[line:15] - INFO: 密码输入框输入：Gds1234567890
+2020-12-15 17:35:45,708 - log_utils.py[line:15] - INFO: 点击登录按钮
+2020-12-15 17:35:47,732 - log_utils.py[line:15] - INFO: 用户登录校验成功
+2020-12-15 17:35:48,978 - log_utils.py[line:15] - INFO: 点击进入系统入口
+2020-12-15 17:35:53,980 - log_utils.py[line:15] - INFO: 等待5秒
+2020-12-15 17:35:56,150 - log_utils.py[line:15] - INFO: 关闭浏览器
+2020-12-15 17:40:04,770 - log_utils.py[line:15] - INFO: 浏览器最大化
+2020-12-15 17:40:04,771 - log_utils.py[line:15] - INFO: 添加隐式等待
+2020-12-15 17:40:05,085 - log_utils.py[line:15] - INFO: 打开浏览器地址：https://petest.gds-services.com/portal/#/portal/r_todo
+2020-12-15 17:40:05,236 - log_utils.py[line:15] - INFO: 用户名输入框输入：chaiguangfei
+2020-12-15 17:40:05,302 - log_utils.py[line:15] - INFO: 密码输入框输入：Gds1234567890
+2020-12-15 17:40:05,335 - log_utils.py[line:15] - INFO: 点击登录按钮
+2020-12-15 17:40:10,024 - log_utils.py[line:15] - INFO: 用户登录校验成功
+2020-12-15 17:40:10,388 - log_utils.py[line:15] - INFO: 点击进入系统入口
+2020-12-15 17:40:15,390 - log_utils.py[line:15] - INFO: 等待5秒
+2020-12-15 17:40:17,578 - log_utils.py[line:15] - INFO: 关闭浏览器
+2020-12-15 17:42:59,799 - log_utils.py[line:15] - INFO: 浏览器最大化
+2020-12-15 17:42:59,801 - log_utils.py[line:15] - INFO: 添加隐式等待
+2020-12-15 17:43:00,044 - log_utils.py[line:15] - INFO: 打开浏览器地址：https://petest.gds-services.com/portal/#/portal/r_todo
+2020-12-15 17:43:00,202 - log_utils.py[line:15] - INFO: 用户名输入框输入：chaiguangfei
+2020-12-15 17:43:00,266 - log_utils.py[line:15] - INFO: 密码输入框输入：Gds1234567890
+2020-12-15 17:43:00,301 - log_utils.py[line:15] - INFO: 点击登录按钮
+2020-12-15 17:43:01,539 - log_utils.py[line:15] - INFO: 用户登录校验成功
+2020-12-15 17:43:05,071 - log_utils.py[line:15] - INFO: 点击进入系统入口
+2020-12-15 17:43:10,072 - log_utils.py[line:15] - INFO: 等待5秒
+2020-12-15 17:43:12,265 - log_utils.py[line:15] - INFO: 关闭浏览器
+2020-12-15 17:45:57,912 - log_utils.py[line:15] - INFO: 浏览器最大化
+2020-12-15 17:45:57,913 - log_utils.py[line:15] - INFO: 添加隐式等待
+2020-12-15 17:45:58,258 - log_utils.py[line:15] - INFO: 打开浏览器地址：https://petest.gds-services.com/portal/#/portal/r_todo
+2020-12-15 17:45:58,415 - log_utils.py[line:15] - INFO: 用户名输入框输入：chaiguangfei
+2020-12-15 17:45:58,484 - log_utils.py[line:15] - INFO: 密码输入框输入：Gds1234567890
+2020-12-15 17:45:58,519 - log_utils.py[line:15] - INFO: 点击登录按钮
+2020-12-15 17:46:00,234 - log_utils.py[line:15] - INFO: 用户登录校验成功
+2020-12-15 17:46:03,864 - log_utils.py[line:15] - INFO: 点击进入系统入口
+2020-12-15 17:46:08,864 - log_utils.py[line:15] - INFO: 等待5秒
+2020-12-15 17:46:11,038 - log_utils.py[line:15] - INFO: 关闭浏览器
+2020-12-15 17:48:32,054 - log_utils.py[line:15] - INFO: 浏览器最大化
+2020-12-15 17:48:32,055 - log_utils.py[line:15] - INFO: 添加隐式等待
+2020-12-15 17:48:32,293 - log_utils.py[line:15] - INFO: 打开浏览器地址：https://petest.gds-services.com/portal/#/portal/r_todo
+2020-12-15 17:48:32,440 - log_utils.py[line:15] - INFO: 用户名输入框输入：chaiguangfei
+2020-12-15 17:48:32,503 - log_utils.py[line:15] - INFO: 密码输入框输入：Gds1234567890
+2020-12-15 17:48:32,537 - log_utils.py[line:15] - INFO: 点击登录按钮
+2020-12-15 17:48:33,844 - log_utils.py[line:15] - INFO: 用户登录校验成功
+2020-12-15 17:48:37,408 - log_utils.py[line:15] - INFO: 点击进入系统入口
+2020-12-15 17:48:42,409 - log_utils.py[line:15] - INFO: 等待5秒
+2020-12-15 17:48:44,571 - log_utils.py[line:15] - INFO: 关闭浏览器
+2020-12-15 17:51:23,057 - log_utils.py[line:15] - INFO: 浏览器最大化
+2020-12-15 17:51:23,059 - log_utils.py[line:15] - INFO: 添加隐式等待
+2020-12-15 17:51:23,299 - log_utils.py[line:15] - INFO: 打开浏览器地址：https://petest.gds-services.com/portal/#/portal/r_todo
+2020-12-15 17:51:23,463 - log_utils.py[line:15] - INFO: 用户名输入框输入：chaiguangfei
+2020-12-15 17:51:23,529 - log_utils.py[line:15] - INFO: 密码输入框输入：Gds1234567890
+2020-12-15 17:51:23,562 - log_utils.py[line:15] - INFO: 点击登录按钮
+2020-12-15 17:51:24,876 - log_utils.py[line:15] - INFO: 用户登录校验成功
+2020-12-15 17:51:26,129 - log_utils.py[line:15] - INFO: 点击进入系统入口
+2020-12-15 17:51:31,129 - log_utils.py[line:15] - INFO: 等待5秒
+2020-12-15 17:51:33,311 - log_utils.py[line:15] - INFO: 关闭浏览器
+2020-12-15 17:53:35,769 - log_utils.py[line:15] - INFO: 浏览器最大化
+2020-12-15 17:53:35,770 - log_utils.py[line:15] - INFO: 添加隐式等待
+2020-12-15 17:53:35,988 - log_utils.py[line:15] - INFO: 打开浏览器地址：https://petest.gds-services.com/portal/#/portal/r_todo
+2020-12-15 17:53:36,160 - log_utils.py[line:15] - INFO: 用户名输入框输入：chaiguangfei
+2020-12-15 17:53:36,226 - log_utils.py[line:15] - INFO: 密码输入框输入：Gds1234567890
+2020-12-15 17:53:36,260 - log_utils.py[line:15] - INFO: 点击登录按钮
+2020-12-15 17:53:40,546 - log_utils.py[line:15] - INFO: 用户登录校验成功
+2020-12-15 17:53:41,239 - log_utils.py[line:15] - INFO: 点击进入系统入口
+2020-12-15 17:53:46,240 - log_utils.py[line:15] - INFO: 等待5秒
+2020-12-15 17:53:48,416 - log_utils.py[line:15] - INFO: 关闭浏览器
+2020-12-15 17:56:04,366 - log_utils.py[line:15] - INFO: 浏览器最大化
+2020-12-15 17:56:04,367 - log_utils.py[line:15] - INFO: 添加隐式等待
+2020-12-15 17:56:05,056 - log_utils.py[line:15] - INFO: 打开浏览器地址：https://petest.gds-services.com/portal/#/portal/r_todo
+2020-12-15 17:56:05,236 - log_utils.py[line:15] - INFO: 用户名输入框输入：chaiguangfei
+2020-12-15 17:56:05,315 - log_utils.py[line:15] - INFO: 密码输入框输入：Gds1234567890
+2020-12-15 17:56:05,351 - log_utils.py[line:15] - INFO: 点击登录按钮
+2020-12-15 17:56:07,779 - log_utils.py[line:15] - INFO: 用户登录校验成功
+2020-12-15 17:56:07,916 - log_utils.py[line:15] - INFO: 点击进入系统入口
+2020-12-15 17:56:12,917 - log_utils.py[line:15] - INFO: 等待5秒
+2020-12-15 17:56:15,101 - log_utils.py[line:15] - INFO: 关闭浏览器
+2020-12-15 18:16:38,888 - log_utils.py[line:15] - INFO: 浏览器最大化
+2020-12-15 18:16:38,890 - log_utils.py[line:15] - INFO: 添加隐式等待
+2020-12-15 18:16:39,703 - log_utils.py[line:15] - INFO: 打开浏览器地址：https://petest.gds-services.com/portal/#/portal/r_todo
+2020-12-15 18:16:39,870 - log_utils.py[line:15] - INFO: 用户名输入框输入：chaiguangfei
+2020-12-15 18:16:39,935 - log_utils.py[line:15] - INFO: 密码输入框输入：Gds1234567890
+2020-12-15 18:16:39,970 - log_utils.py[line:15] - INFO: 点击登录按钮
+2020-12-15 18:16:45,754 - log_utils.py[line:15] - INFO: 用户登录校验成功
+2020-12-15 18:16:46,278 - log_utils.py[line:15] - INFO: 点击进入系统入口
+2020-12-15 18:16:51,279 - log_utils.py[line:15] - INFO: 等待5秒
+2020-12-15 18:16:52,282 - log_utils.py[line:15] - INFO: 点击变更管理
+2020-12-15 18:16:59,488 - log_utils.py[line:15] - INFO: 关闭浏览器
+2020-12-15 18:17:45,303 - log_utils.py[line:15] - INFO: 浏览器最大化
+2020-12-15 18:17:45,304 - log_utils.py[line:15] - INFO: 添加隐式等待
+2020-12-15 18:17:45,540 - log_utils.py[line:15] - INFO: 打开浏览器地址：https://petest.gds-services.com/portal/#/portal/r_todo
+2020-12-15 18:17:45,700 - log_utils.py[line:15] - INFO: 用户名输入框输入：chaiguangfei
+2020-12-15 18:17:45,764 - log_utils.py[line:15] - INFO: 密码输入框输入：Gds1234567890
+2020-12-15 18:17:45,797 - log_utils.py[line:15] - INFO: 点击登录按钮
+2020-12-15 18:17:47,143 - log_utils.py[line:15] - INFO: 用户登录校验成功
+2020-12-15 18:17:50,576 - log_utils.py[line:15] - INFO: 点击进入系统入口
+2020-12-15 18:17:55,576 - log_utils.py[line:15] - INFO: 等待5秒
+2020-12-15 18:17:56,581 - log_utils.py[line:15] - INFO: 点击变更管理
+2020-12-15 18:18:03,791 - log_utils.py[line:15] - INFO: 关闭浏览器
+2020-12-15 18:19:42,522 - log_utils.py[line:15] - INFO: 浏览器最大化
+2020-12-15 18:19:42,523 - log_utils.py[line:15] - INFO: 添加隐式等待
+2020-12-15 18:19:42,831 - log_utils.py[line:15] - INFO: 打开浏览器地址：https://petest.gds-services.com/portal/#/portal/r_todo
+2020-12-15 18:19:42,986 - log_utils.py[line:15] - INFO: 用户名输入框输入：chaiguangfei
+2020-12-15 18:19:43,048 - log_utils.py[line:15] - INFO: 密码输入框输入：Gds1234567890
+2020-12-15 18:19:43,082 - log_utils.py[line:15] - INFO: 点击登录按钮
+2020-12-15 18:19:44,687 - log_utils.py[line:15] - INFO: 用户登录校验成功
+2020-12-15 18:19:45,846 - log_utils.py[line:15] - INFO: 点击进入系统入口
+2020-12-15 18:19:50,847 - log_utils.py[line:15] - INFO: 等待5秒
+2020-12-15 18:19:51,852 - log_utils.py[line:15] - INFO: 点击变更管理
+2020-12-15 18:19:53,916 - log_utils.py[line:15] - INFO: 等待2秒
+2020-12-15 18:20:01,087 - log_utils.py[line:15] - INFO: 关闭浏览器
+2020-12-15 18:21:33,747 - log_utils.py[line:15] - INFO: 浏览器最大化
+2020-12-15 18:21:33,748 - log_utils.py[line:15] - INFO: 添加隐式等待
+2020-12-15 18:21:33,973 - log_utils.py[line:15] - INFO: 打开浏览器地址：https://petest.gds-services.com/portal/#/portal/r_todo
+2020-12-15 18:21:34,128 - log_utils.py[line:15] - INFO: 用户名输入框输入：chaiguangfei
+2020-12-15 18:21:34,193 - log_utils.py[line:15] - INFO: 密码输入框输入：Gds1234567890
+2020-12-15 18:21:34,225 - log_utils.py[line:15] - INFO: 点击登录按钮
+2020-12-15 18:21:35,506 - log_utils.py[line:15] - INFO: 用户登录校验成功
+2020-12-15 18:21:38,662 - log_utils.py[line:15] - INFO: 点击进入系统入口
+2020-12-15 18:21:43,663 - log_utils.py[line:15] - INFO: 等待5秒
+2020-12-15 18:21:44,668 - log_utils.py[line:15] - INFO: 点击变更管理
+2020-12-15 18:21:46,702 - log_utils.py[line:15] - INFO: 等待2秒
+2020-12-15 18:21:53,906 - log_utils.py[line:15] - INFO: 关闭浏览器
+2020-12-15 18:22:21,333 - log_utils.py[line:15] - INFO: 浏览器最大化
+2020-12-15 18:22:21,334 - log_utils.py[line:15] - INFO: 添加隐式等待
+2020-12-15 18:22:21,549 - log_utils.py[line:15] - INFO: 打开浏览器地址：https://petest.gds-services.com/portal/#/portal/r_todo
+2020-12-15 18:22:21,701 - log_utils.py[line:15] - INFO: 用户名输入框输入：chaiguangfei
+2020-12-15 18:22:21,768 - log_utils.py[line:15] - INFO: 密码输入框输入：Gds1234567890
+2020-12-15 18:22:21,803 - log_utils.py[line:15] - INFO: 点击登录按钮
+2020-12-15 18:22:23,817 - log_utils.py[line:15] - INFO: 用户登录校验成功
+2020-12-15 18:22:23,955 - log_utils.py[line:15] - INFO: 点击进入系统入口
+2020-12-15 18:22:28,956 - log_utils.py[line:15] - INFO: 等待5秒
+2020-12-15 18:22:29,961 - log_utils.py[line:15] - INFO: 点击变更管理
+2020-12-15 18:22:31,995 - log_utils.py[line:15] - INFO: 等待2秒
+2020-12-15 18:22:39,198 - log_utils.py[line:15] - INFO: 关闭浏览器
+2020-12-15 18:23:49,382 - log_utils.py[line:15] - INFO: 浏览器最大化
+2020-12-15 18:23:49,384 - log_utils.py[line:15] - INFO: 添加隐式等待
+2020-12-15 18:23:49,683 - log_utils.py[line:15] - INFO: 打开浏览器地址：https://petest.gds-services.com/portal/#/portal/r_todo
+2020-12-15 18:23:49,859 - log_utils.py[line:15] - INFO: 用户名输入框输入：chaiguangfei
+2020-12-15 18:23:49,933 - log_utils.py[line:15] - INFO: 密码输入框输入：Gds1234567890
+2020-12-15 18:23:49,987 - log_utils.py[line:15] - INFO: 点击登录按钮
+2020-12-15 18:23:54,752 - log_utils.py[line:15] - INFO: 用户登录校验成功
+2020-12-15 18:23:55,070 - log_utils.py[line:15] - INFO: 点击进入系统入口
+2020-12-15 18:24:00,071 - log_utils.py[line:15] - INFO: 等待5秒
+2020-12-15 18:24:01,074 - log_utils.py[line:15] - INFO: 点击变更管理
+2020-12-15 18:24:03,110 - log_utils.py[line:15] - INFO: 等待2秒
+2020-12-15 18:24:10,309 - log_utils.py[line:15] - INFO: 关闭浏览器
+2020-12-15 18:31:02,692 - log_utils.py[line:15] - INFO: 浏览器最大化
+2020-12-15 18:31:02,693 - log_utils.py[line:15] - INFO: 添加隐式等待
+2020-12-15 18:31:03,119 - log_utils.py[line:15] - INFO: 打开浏览器地址：https://petest.gds-services.com/portal/#/portal/r_todo
+2020-12-15 18:31:03,279 - log_utils.py[line:15] - INFO: 用户名输入框输入：chaiguangfei
+2020-12-15 18:31:03,350 - log_utils.py[line:15] - INFO: 密码输入框输入：Gds1234567890
+2020-12-15 18:31:03,392 - log_utils.py[line:15] - INFO: 点击登录按钮
+2020-12-15 18:31:04,847 - log_utils.py[line:15] - INFO: 用户登录校验成功
+2020-12-15 18:31:05,930 - log_utils.py[line:15] - INFO: 点击进入系统入口
+2020-12-15 18:31:10,931 - log_utils.py[line:15] - INFO: 等待5秒
+2020-12-15 18:31:11,934 - log_utils.py[line:15] - INFO: 点击变更管理
+2020-12-15 18:31:13,983 - log_utils.py[line:15] - INFO: 等待2秒
+2020-12-15 18:31:24,015 - log_utils.py[line:15] - INFO: 等待10秒
+2020-12-15 18:31:26,174 - log_utils.py[line:15] - INFO: 关闭浏览器
+2020-12-15 18:33:06,383 - log_utils.py[line:15] - INFO: 浏览器最大化
+2020-12-15 18:33:06,384 - log_utils.py[line:15] - INFO: 添加隐式等待
+2020-12-15 18:33:06,579 - log_utils.py[line:15] - INFO: 打开浏览器地址：https://petest.gds-services.com/portal/#/portal/r_todo
+2020-12-15 18:33:06,730 - log_utils.py[line:15] - INFO: 用户名输入框输入：chaiguangfei
+2020-12-15 18:33:06,796 - log_utils.py[line:15] - INFO: 密码输入框输入：Gds1234567890
+2020-12-15 18:33:06,829 - log_utils.py[line:15] - INFO: 点击登录按钮
+2020-12-15 18:33:07,947 - log_utils.py[line:15] - INFO: 用户登录校验成功
+2020-12-15 18:33:08,038 - log_utils.py[line:15] - INFO: 点击进入系统入口
+2020-12-15 18:33:13,038 - log_utils.py[line:15] - INFO: 等待5秒
+2020-12-15 18:33:15,200 - log_utils.py[line:15] - INFO: 关闭浏览器
+2020-12-15 18:34:29,497 - log_utils.py[line:15] - INFO: 浏览器最大化
+2020-12-15 18:34:29,498 - log_utils.py[line:15] - INFO: 添加隐式等待
+2020-12-15 18:34:29,719 - log_utils.py[line:15] - INFO: 打开浏览器地址：https://petest.gds-services.com/portal/#/portal/r_todo
+2020-12-15 18:34:29,896 - log_utils.py[line:15] - INFO: 用户名输入框输入：chaiguangfei
+2020-12-15 18:34:29,960 - log_utils.py[line:15] - INFO: 密码输入框输入：Gds1234567890
+2020-12-15 18:34:29,995 - log_utils.py[line:15] - INFO: 点击登录按钮
+2020-12-15 18:34:31,488 - log_utils.py[line:15] - INFO: 用户登录校验成功
+2020-12-15 18:34:34,904 - log_utils.py[line:15] - INFO: 点击进入系统入口
+2020-12-15 18:34:39,905 - log_utils.py[line:15] - INFO: 等待5秒
+2020-12-15 18:34:42,069 - log_utils.py[line:15] - INFO: 关闭浏览器
+2020-12-15 18:37:27,405 - log_utils.py[line:15] - INFO: 浏览器最大化
+2020-12-15 18:37:27,407 - log_utils.py[line:15] - INFO: 添加隐式等待
+2020-12-15 18:37:27,629 - log_utils.py[line:15] - INFO: 打开浏览器地址：https://petest.gds-services.com/portal/#/portal/r_todo
+2020-12-15 18:37:27,790 - log_utils.py[line:15] - INFO: 用户名输入框输入：chaiguangfei
+2020-12-15 18:37:27,855 - log_utils.py[line:15] - INFO: 密码输入框输入：Gds1234567890
+2020-12-15 18:37:27,888 - log_utils.py[line:15] - INFO: 点击登录按钮
+2020-12-15 18:37:29,153 - log_utils.py[line:15] - INFO: 用户登录校验成功
+2020-12-15 18:37:32,389 - log_utils.py[line:15] - INFO: 点击进入系统入口
+2020-12-15 18:37:37,390 - log_utils.py[line:15] - INFO: 等待5秒
+2020-12-15 18:37:37,424 - log_utils.py[line:15] - INFO: 点击变更管理
+2020-12-15 18:37:39,424 - log_utils.py[line:15] - INFO: 等待2秒
+2020-12-15 18:37:49,460 - log_utils.py[line:15] - INFO: 等待10秒
+2020-12-15 18:37:51,557 - log_utils.py[line:15] - INFO: 关闭浏览器
